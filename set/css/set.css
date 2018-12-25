@@ -1,0 +1,327 @@
+aside img{
+	display:block;
+	width:100%;
+	padding-top:17px;
+    padding-bottom:32px;
+}
+.project,.animation,.count,.php,.h5,.python,.train,.through{
+	width:100%;
+	max-width:1060px;
+	margin:0 auto;
+	padding:0 15px;
+	margin-top:40px;
+	box-sizing:border-box;
+}
+.project nav,.animation nav,.count nav,.php nav,.h5 nav,.python nav,.train nav,.through nav{
+	width:26.6%;
+	float:left;
+}
+.project nav ul,.animation nav ul,.count nav ul,.php nav ul,.h5 nav ul,.python nav ul,.train nav ul,.through nav ul{
+	padding-right:17px;
+	border-right:1px solid #bababa;
+}
+.project nav ul li,.animation nav ul li,.count nav ul li,.php nav ul li,.h5 nav ul li,.python nav ul li,.train nav ul li,.through nav ul li{	
+	height:81px;
+	background-repeat:no-repeat;
+	background-position:15px center;
+}
+.project nav ul li:first-of-type,
+.animation nav ul li:first-of-type,
+.count nav ul li:first-of-type,
+.php nav ul li:first-of-type,
+.h5 nav ul li:first-of-type,
+.python nav ul li:first-of-type,
+.train nav ul li:first-of-type,
+.through nav ul li:first-of-type {
+	background-image: url(../images/left_link_02.jpg);
+}
+.project nav ul li:first-of-type:hover,
+.animation nav ul li:first-of-type:hover,
+.count nav ul li:first-of-type:hover,
+.php nav ul li:first-of-type:hover,
+.h5 nav ul li:first-of-type:hover,
+.python nav ul li:first-of-type:hover,
+.train nav ul li:first-of-type:hover,
+.through nav ul li:first-of-type:hover {
+	background-image: url(../images/left_link_03.jpg);
+}
+.project nav ul li.hover{
+	background-image: url(../images/left_link_03.jpg);
+}
+.project nav ul li:nth-of-type(2),
+.animation nav ul li:nth-of-type(2),
+.count nav ul li:nth-of-type(2),
+.php nav ul li:nth-of-type(2),
+.h5 nav ul li:nth-of-type(2),
+.python nav ul li:nth-of-type(2),
+.train nav ul li:nth-of-type(2),
+.through nav ul li:nth-of-type(2) {
+	background-image: url(../images/left_link_06.jpg);
+}
+.project nav ul li:nth-of-type(2):hover,
+.animation nav ul li:nth-of-type(2):hover,
+.count nav ul li:nth-of-type(2):hover,
+.php nav ul li:nth-of-type(2):hover,
+.h5 nav ul li:nth-of-type(2):hover,
+.python nav ul li:nth-of-type(2):hover,
+.train nav ul li:nth-of-type(2):hover,
+.through nav ul li:nth-of-type(2):hover {
+	background-image: url(../images/left_link_07.jpg);
+}
+.animation nav ul li.hover {
+	background-image: url(../images/left_link_07.jpg);
+}
+.project nav ul li:nth-of-type(3),
+.animation nav ul li:nth-of-type(3),
+.count nav ul li:nth-of-type(3),
+.php nav ul li:nth-of-type(3),
+.h5 nav ul li:nth-of-type(3),
+.python nav ul li:nth-of-type(3),
+.train nav ul li:nth-of-type(3),
+.through nav ul li:nth-of-type(3) {
+	background-image: url(../images/left_link_08.jpg);
+}
+.project nav ul li:nth-of-type(3):hover,
+.animation nav ul li:nth-of-type(3):hover,
+.count nav ul li:nth-of-type(3):hover,
+.php nav ul li:nth-of-type(3):hover,
+.h5 nav ul li:nth-of-type(3):hover,
+.python nav ul li:nth-of-type(3):hover,
+.train nav ul li:nth-of-type(3):hover,
+.through nav ul li:nth-of-type(3):hover {
+	background-image: url(../images/left_link_09.jpg);
+}
+.count nav ul li.hover {
+	background-image: url(../images/left_link_09.jpg);
+}
+.project nav ul li:nth-of-type(4),
+.animation nav ul li:nth-of-type(4),
+.count nav ul li:nth-of-type(4),
+.php nav ul li:nth-of-type(4),
+.h5 nav ul li:nth-of-type(4),
+.python nav ul li:nth-of-type(4),
+.train nav ul li:nth-of-type(4),
+.through nav ul li:nth-of-type(4) {
+	background-image: url(../images/left_link_10.jpg);
+}
+.project nav ul li:nth-of-type(4):hover,
+.animation nav ul li:nth-of-type(4):hover,
+.count nav ul li:nth-of-type(4):hover,
+.php nav ul li:nth-of-type(4):hover,
+.h5 nav ul li:nth-of-type(4):hover,
+.python nav ul li:nth-of-type(4):hover,
+.train nav ul li:nth-of-type(4):hover,
+.through nav ul li:nth-of-type(4):hover {
+	background-image: url(../images/left_link_11.jpg);
+}
+.php nav ul li.hover {
+	background-image: url(../images/left_link_11.jpg);
+}
+.project nav ul li:nth-of-type(5),
+.animation nav ul li:nth-of-type(5),
+.count nav ul li:nth-of-type(5),
+.php nav ul li:nth-of-type(5),
+.h5 nav ul li:nth-of-type(5),
+.python nav ul li:nth-of-type(5),
+.train nav ul li:nth-of-type(5),
+.through nav ul li:nth-of-type(5) {
+	background-image: url(../images/left_link_12.jpg);
+}
+.project nav ul li:nth-of-type(5):hover,
+.animation nav ul li:nth-of-type(5):hover,
+.count nav ul li:nth-of-type(5):hover,
+.php nav ul li:nth-of-type(5):hover,
+.h5 nav ul li:nth-of-type(5):hover,
+.python nav ul li:nth-of-type(5):hover,
+.train nav ul li:nth-of-type(5):hover,
+.through nav ul li:nth-of-type(5):hover {
+	background-image: url(../images/left_link_13.jpg);
+}
+.h5 nav ul li.hover {
+	background-image: url(../images/left_link_13.jpg);
+}
+.project nav ul li:nth-of-type(6),
+.animation nav ul li:nth-of-type(6),
+.count nav ul li:nth-of-type(6),
+.php nav ul li:nth-of-type(6),
+.h5 nav ul li:nth-of-type(6),
+.python nav ul li:nth-of-type(6),
+.train nav ul li:nth-of-type(6),
+.through nav ul li:nth-of-type(6) {
+	background-image: url(../images/left_link_14.jpg);
+}
+.project nav ul li:nth-of-type(6):hover,
+.animation nav ul li:nth-of-type(6):hover,
+.count nav ul li:nth-of-type(6):hover,
+.php nav ul li:nth-of-type(6):hover,
+.h5 nav ul li:nth-of-type(6):hover,
+.python nav ul li:nth-of-type(6):hover,
+.train nav ul li:nth-of-type(6):hover,
+.through nav ul li:nth-of-type(6):hover {
+	background-image: url(../images/left_link_15.jpg);
+}
+.python nav ul li.hover {
+	background-image: url(../images/left_link_15.jpg);
+}
+.project nav ul li:nth-of-type(7),
+.animation nav ul li:nth-of-type(7),
+.count nav ul li:nth-of-type(7),
+.php nav ul li:nth-of-type(7),
+.h5 nav ul li:nth-of-type(7),
+.python nav ul li:nth-of-type(7),
+.train nav ul li:nth-of-type(7),
+.through nav ul li:nth-of-type(7) {
+	background-image: url(../images/left_link_16.jpg);
+}
+.project nav ul li:nth-of-type(7):hover,
+.animation nav ul li:nth-of-type(7):hover,
+.count nav ul li:nth-of-type(7):hover,
+.php nav ul li:nth-of-type(7):hover,
+.h5 nav ul li:nth-of-type(7):hover,
+.python nav ul li:nth-of-type(7):hover,
+.train nav ul li:nth-of-type(7):hover,
+.through nav ul li:nth-of-type(7):hover {
+	background-image: url(../images/left_link_17.jpg);
+}
+.train nav ul li.hover {
+	background-image: url(../images/left_link_17.jpg);
+}
+.project nav ul li:nth-of-type(8),
+.animation nav ul li:nth-of-type(8),
+.count nav ul li:nth-of-type(8),
+.php nav ul li:nth-of-type(8),
+.h5 nav ul li:nth-of-type(8),
+.python nav ul li:nth-of-type(8),
+.train nav ul li:nth-of-type(8),
+.through nav ul li:nth-of-type(8) {
+	background-image: url(../images/left_link_18.jpg);
+}
+.project nav ul li:nth-of-type(8):hover,
+.animation nav ul li:nth-of-type(8):hover,
+.count nav ul li:nth-of-type(8):hover,
+.php nav ul li:nth-of-type(8):hover,
+.h5 nav ul li:nth-of-type(8):hover,
+.python nav ul li:nth-of-type(8):hover,
+.train nav ul li:nth-of-type(8):hover,
+.through nav ul li:nth-of-type(8):hover {
+	background-image: url(../images/left_link_19.jpg);
+}
+.through nav ul li.hover {
+	background-image: url(../images/left_link_19.jpg);
+}
+.project nav ul li a,.animation nav ul li a,.count nav ul li a,.php nav ul li a,.h5 nav ul li a,.python nav ul li a,.train nav ul li a,.through nav ul li a{
+	display:block;
+	padding-left:65px;
+	line-height:74px;
+	font-size:22px;
+	color:#222222;
+	border-bottom:4px solid #ffffff;
+}
+.project nav ul li:hover a,.animation nav ul li:hover a,.count nav ul li:hover a,.php nav ul li:hover a,.h5 nav ul li:hover a,.python nav ul li:hover a,.train nav ul li:hover a,.through nav ul li:hover a{
+	border-bottom:4px solid #fa9634;
+}
+.project nav ul li.hover a,.animation nav ul li.hover a,.count nav ul li.hover a,.php nav ul li.hover a,.h5 nav ul li.hover a,.python nav ul li.hover a,.train nav ul li.hover a,.through nav ul li.hover a{
+	border-bottom:4px solid #fa9634;
+}
+aside{
+    width:67.86407766990291%;
+    padding-top:5px;
+    padding-left:48px;
+    margin-bottom:40px;
+	float:left;
+}
+aside h4{
+	line-height:50px;
+	font-size:18px;
+	font-weight:bold;
+	color:#fa9634;
+}
+aside p{
+	line-height:30px;
+	font-size:16px;
+	color:#000000;
+}
+
+
+
+
+@media screen and (min-width:768px ) and (max-width:1000px) {
+	.project nav ul li,.animation nav ul li,.count nav ul li,.php nav ul li,.h5 nav ul li,.python nav ul li,.train nav ul li,.through nav ul li{
+		height:74px;
+		background-position:10px center;
+	}
+	.project nav ul li a,.animation nav ul li a,.count nav ul li a,.php nav ul li a,.h5 nav ul li a,.python nav ul li a,.train nav ul li a,.through nav ul li a{
+		line-height:70px;
+		font-size:20px;
+		padding-left:60px;
+		white-space:nowrap;
+		overflow:hidden;
+		text-overflow:ellipsis;
+	}
+	aside{
+		padding-left:38px;
+	}
+	aside p{
+		text-indent:36px;
+	}
+}
+@media screen and (max-width:767px){
+	.project nav,.animation nav,.count nav,.php nav,.h5 nav,.python nav,.train nav,.through nav{
+		width:100%;
+		clear:both;
+	}
+	.project nav ul,.animation nav ul,.count nav ul,.php nav ul,.h5 ul nav,.python nav ul,.train nav ul,.through nav ul{
+		height:104px;
+		padding-right:0;
+		border-right:0;
+		padding-bottom:10px;
+	}
+	.project nav ul li,.animation nav ul li,.count nav ul li,.php nav ul li,.h5 nav ul li,.python nav ul li,.train nav ul li,.through nav ul li{
+		height:114px;
+		width:33.33333333333333333333333333333333%;
+		background-position:center 10px;
+		text-align:center;
+		float:left;
+	}
+	.project nav ul li a,.animation nav ul li a,.count nav ul li a,.php nav ul li a,.h5 nav ul li a,.python nav ul li a,.train nav ul li a,.through nav ul li a{
+		display:block;
+		width:100%;
+	    padding-top:50px;
+	    font-size:20px;
+	    height:50px;
+	    line-height:50px;
+	    padding-left:0;
+	    white-space:nowrap;
+		overflow:hidden;
+		text-overflow:ellipsis;
+	}
+	aside{
+		width:100%;
+		padding-left:0;
+		clear:both;
+	}
+	aside p{
+		text-indent:36px;
+	}
+}
+@media screen and (max-width:480px){
+	.project nav ul li a,.animation nav ul li a,.count nav ul li a,.php nav ul li a,.h5 nav ul li a,.python nav ul li a,.train nav ul li a,.through nav ul li a{
+		font-size:18px;
+		font-family:"宋体";
+		white-space:nowrap;
+		overflow:hidden;
+		text-overflow:ellipsis;
+	}
+	aside h4{
+		font-size:16px;
+		height:30px;
+	    line-height:30px;
+	    padding-top:10px;
+	    font-family:"宋体";
+	}
+	aside p{
+		font-family:"宋体";
+		font-size:14px;
+		text-indent:36px;
+	}
+}

@@ -1,0 +1,225 @@
+img{
+	display:block;
+	width:100%;
+}
+.apply,.problem,.path,.job{
+	width:100%;
+	max-width:1060px;
+	margin:0 auto;
+	padding:0 15px;
+	margin-top:40px;
+	box-sizing:border-box;
+}
+.apply nav,.problem nav,.path nav,.job nav{
+	width:26.6%;
+	float:left;
+}
+.apply nav ul,.problem nav ul,.path nav ul,.job nav ul{
+	padding-right:17px;
+	border-right:1px solid #bababa;
+}
+.apply nav ul li,.problem nav ul li,.path nav ul li,.job nav ul li{
+	/*height:81px;*/
+	background-repeat:no-repeat;
+	background-position:15px center;
+}
+.apply nav ul li:first-of-type,
+.problem nav ul li:first-of-type,
+.path nav ul li:first-of-type,
+.job nav ul li:first-of-type{
+	background-image: url(../images/service_03.jpg);
+}
+.apply nav ul li:first-of-type:hover,
+.problem nav ul li:first-of-type:hover,
+.path nav ul li:first-of-type:hover,
+.job nav ul li:first-of-type:hover{
+	background-image: url(../images/service_04.jpg);
+}
+.apply nav ul li.hover{
+	background-image: url(../images/service_04.jpg);
+}
+
+.apply nav ul li:nth-of-type(2),
+.problem nav ul li:nth-of-type(2),
+.path nav ul li:nth-of-type(2),
+.job nav ul li:nth-of-type(2){
+	background-image: url(../images/service_05.jpg);
+}
+.apply nav ul li:nth-of-type(2):hover,
+.problem nav ul li:nth-of-type(2):hover,
+.path nav ul li:nth-of-type(2):hover,
+.job nav ul li:nth-of-type(2):hover{
+	background-image: url(../images/service_06.jpg);
+}
+.problem nav ul li.hover{
+	background-image: url(../images/service_06.jpg);
+}
+
+.apply nav ul li:nth-of-type(3),
+.problem nav ul li:nth-of-type(3),
+.path nav ul li:nth-of-type(3),
+.job nav ul li:nth-of-type(3){
+	background-image: url(../images/service_08.jpg);
+}
+.apply nav ul li:nth-of-type(3):hover,
+.problem nav ul li:nth-of-type(3):hover,
+.path nav ul li:nth-of-type(3):hover,
+.job nav ul li:nth-of-type(3):hover{
+	background-image: url(../images/service_09.jpg);
+}
+.path nav ul li.hover{
+	background-image: url(../images/service_09.jpg);
+}
+
+.apply nav ul li:nth-of-type(4),
+.problem nav ul li:nth-of-type(4),
+.path nav ul li:nth-of-type(4),
+.job nav ul li:nth-of-type(4){
+	background-image: url(../images/service_10.jpg);
+}
+.apply nav ul li:nth-of-type(4):hover,
+.problem nav ul li:nth-of-type(4):hover,
+.path nav ul li:nth-of-type(4):hover,
+.job nav ul li:nth-of-type(4):hover{
+	background-image: url(../images/service_11.jpg);
+}
+.job nav ul li.hover{
+	background-image: url(../images/service_11.jpg);
+}
+.apply nav ul li a,.problem nav ul li a,.path nav ul li a,.job nav ul li a{
+	display:block;
+	padding-left:65px;
+	line-height:74px;
+	font-size:22px;
+	color:#222222;
+	border-bottom:4px solid #ffffff;
+}
+.apply nav ul li:hover a,.problem nav ul li:hover a,.path nav ul li:hover a,.job nav ul li:hover a{
+	border-bottom:4px solid #fa9634;
+}
+.apply nav ul li.hover a,.problem nav ul li.hover a,.path nav ul li.hover a,.job nav ul li.hover a{
+	border-bottom:4px solid #fa9634;
+}
+.apply div,.problem div,.path div,.job div{
+	width:67.86407766990291%;
+    padding-top:5px;
+    padding-left:48px;
+    margin-bottom:80px;
+	float:left;
+}
+.apply div h3,.problem div h3,.path div h3,.job div h3{
+	line-height:50px;
+	font-size:18px;
+	font-weight:bold;
+	color:#fa9634;
+}
+.apply div h3 span,.problem div h3 span,.path div h3 span,.job div h3 span{
+	line-height:30px;
+	font-size:16px;
+	font-weight:normal;
+	color:#000000;
+}
+.apply div p,.problem div p,.path div p,.job div p{
+	line-height:30px;
+	font-size:16px;
+	color:#000000;
+	
+}
+h6{
+	font-size:16px;
+    color:#222222;
+    font-weight:bold;
+    margin-bottom:10px;
+}
+.problem div span{
+	display:inline-block;
+	font-size:16px;
+    font-weight:bold;
+    color:#000000;
+}
+.path div p:nth-of-type(2) span,.path div p:nth-of-type(3) span{
+	font-size:22px;
+    font-weight:bold;
+    display:inline-block;
+    padding-left:40px;
+}
+@media screen and (min-width:768px ) and (max-width:1000px) {
+	.apply nav,.problem nav,.path nav,.job nav{
+		width:29%;
+	}
+	.apply nav ul li,.problem nav ul li,.path nav ul li,.job nav ul li{
+		background-position:10px center;
+	}
+	.apply nav ul li a,.problem nav ul li a,.path nav ul li a,.job nav ul li a{
+		padding-left: 60px;
+		font-size:20px;
+		font-family:"微软雅黑";
+	}
+	.apply div,.problem div,.path div,.job div{
+		width:71%;
+		padding-left:38px;
+		box-sizing:border-box;
+	}
+}
+@media screen and (max-width:767px){
+	.apply, .problem, .path, .job {
+	    margin-top:20px;
+	}
+	.apply nav,.problem nav,.path nav,.job nav{
+		width:100%;
+		clear:both;
+	}
+	.apply nav ul,.problem nav ul,.path nav ul,.job nav ul{
+		border-right:0;
+	}
+	.apply nav ul li,.problem nav ul li,.path nav ul li,.job nav ul li{
+		width:25%;
+		text-align:center;
+		float:left;
+		background-position:center 10px;
+	}
+	.apply nav ul li a,.problem nav ul li a,.path nav ul li a,.job nav ul li a{
+		padding:50px 0 0 0;
+    	font-size:20px;
+    	line-height:50px;
+	}
+	.apply div,.problem div,.path div,.job div{
+		width:100%;
+		clear:both;
+		padding-left:0;
+	}
+	.path div p:nth-of-type(2) span,.path div p:nth-of-type(3) span{
+		font-size:16px;
+	    padding-left:0;
+	}
+}
+@media screen and (max-width:480px){
+	.apply nav ul li a,.problem nav ul li a,.path nav ul li a,.job nav ul li a{
+		padding: 50px 0 0 0;
+	    font-size: 18px;
+	    line-height: 40px;
+	    font-family:"宋体";
+	    white-space:nowrap;
+		overflow:hidden;
+		text-overflow:ellipsis;
+	}
+	.apply div h3,.problem div h3,.path div h3,.job div h3{
+		font-family:"宋体";
+		font-size:16px;
+	    line-height:30px;
+	    font-weight:bold;
+	    padding-top:10px;
+	}   
+	.apply div p,.problem div p,.path div p,.job div p{
+		font-family:"宋体";
+		font-size:14px;
+	}
+	.apply div h3 span,.problem div h3 span,.path div h3 span,.job div h3 span{
+		font-family:"宋体";
+		font-size:14px;
+	}
+	.problem div span {
+		font-family:"宋体";
+		font-size:14px;
+	}
+}

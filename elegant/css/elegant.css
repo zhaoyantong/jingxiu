@@ -1,0 +1,248 @@
+.military,.practice,.sports,.practical,.perform,.soiree{
+	width:100%;
+	max-width:1060px;
+	margin:0 auto;
+	padding:0 15px;
+	margin-top:40px;
+	box-sizing:border-box;
+}
+.military nav,.practice nav,.sports nav,.practical nav,.perform nav,.soiree nav{
+	width:26.6%;
+	float:left;
+}
+.military nav ul,.practice nav ul,.sports nav ul,.practical nav ul,.perform nav ul,.soiree nav ul{
+	padding-right:17px;
+	border-right:1px solid #bababa;
+}
+.military nav ul li,.practice nav ul li,.sports nav ul li,.practical nav ul li,.perform nav ul li,.soiree nav ul li{	
+	background-repeat:no-repeat;
+	background-position:15px center;
+}
+.military nav ul li:first-of-type,
+.practice nav ul li:first-of-type,
+.sports nav ul li:first-of-type,
+.practical nav ul li:first-of-type,
+.perform nav ul li:first-of-type,
+.soiree nav ul li:first-of-type{
+	background-image: url(../images/xsjx_1.gif);
+}
+.military nav ul li:first-of-type:hover,
+.practice nav ul li:first-of-type:hover,
+.sports nav ul li:first-of-type:hover,
+.practical nav ul li:first-of-type:hover,
+.perform nav ul li:first-of-type:hover,
+.soiree nav ul li:first-of-type:hover{
+	background-image: url(../images/xsjx.gif);
+}
+.military nav ul li.hover{
+	background-image: url(../images/xsjx.gif);
+}
+
+.military nav ul li:nth-of-type(2),
+.practice nav ul li:nth-of-type(2),
+.sports nav ul li:nth-of-type(2),
+.practical nav ul li:nth-of-type(2),
+.perform nav ul li:nth-of-type(2),
+.soiree nav ul li:nth-of-type(2){
+	background-image: url(../images/hy_1.gif);
+}
+.military nav ul li:nth-of-type(2):hover,
+.practice nav ul li:nth-of-type(2):hover,
+.sports nav ul li:nth-of-type(2):hover,
+.practical nav ul li:nth-of-type(2):hover,
+.perform nav ul li:nth-of-type(2):hover,
+.soiree nav ul li:nth-of-type(2):hover{
+	background-image: url(../images/hy.gif);
+}
+.practice nav ul li.hover{
+	background-image: url(../images/hy.gif);
+}
+
+.military nav ul li:nth-of-type(3),
+.practice nav ul li:nth-of-type(3),
+.sports nav ul li:nth-of-type(3),
+.practical nav ul li:nth-of-type(3),
+.perform nav ul li:nth-of-type(3),
+.soiree nav ul li:nth-of-type(3){
+	background-image: url(../images/ydh_1.gif);
+}
+.military nav ul li:nth-of-type(3):hover,
+.practice nav ul li:nth-of-type(3):hover,
+.sports nav ul li:nth-of-type(3):hover,
+.practical nav ul li:nth-of-type(3):hover,
+.perform nav ul li:nth-of-type(3):hover,
+.soiree nav ul li:nth-of-type(3):hover{
+	background-image: url(../images/ydh.gif);
+}
+.sports nav ul li.hover{
+	background-image: url(../images/ydh.gif);
+}
+
+.military nav ul li:nth-of-type(4),
+.practice nav ul li:nth-of-type(4),
+.sports nav ul li:nth-of-type(4),
+.practical nav ul li:nth-of-type(4),
+.perform nav ul li:nth-of-type(4),
+.soiree nav ul li:nth-of-type(4){
+	background-image: url(../images/dxs_.gif);
+}
+.military nav ul li:nth-of-type(4):hover,
+.practice nav ul li:nth-of-type(4):hover,
+.sports nav ul li:nth-of-type(4):hover,
+.practical nav ul li:nth-of-type(4):hover,
+.perform nav ul li:nth-of-type(4):hover,
+.soiree nav ul li:nth-of-type(4):hover{
+	background-image: url(../images/dxs.gif);
+}
+.practical nav ul li.hover{
+	background-image: url(../images/dxs.gif);
+}
+
+.military nav ul li:nth-of-type(5),
+.practice nav ul li:nth-of-type(5),
+.sports nav ul li:nth-of-type(5),
+.practical nav ul li:nth-of-type(5),
+.perform nav ul li:nth-of-type(5),
+.soiree nav ul li:nth-of-type(5){
+	background-image: url(../images/hj_1.gif);
+}
+.military nav ul li:nth-of-type(5):hover,
+.practice nav ul li:nth-of-type(5):hover,
+.sports nav ul li:nth-of-type(5):hover,
+.practical nav ul li:nth-of-type(5):hover,
+.perform nav ul li:nth-of-type(5):hover,
+.soiree nav ul li:nth-of-type(5):hover{
+	background-image: url(../images/hj.gif);
+}
+.perform nav ul li.hover{
+	background-image: url(../images/hj.gif);
+}
+
+.military nav ul li:nth-of-type(6),
+.practice nav ul li:nth-of-type(6),
+.sports nav ul li:nth-of-type(6),
+.practical nav ul li:nth-of-type(6),
+.perform nav ul li:nth-of-type(6),
+.soiree nav ul li:nth-of-type(6){
+	background-image: url(../images/sdwh_1.gif);
+}
+.military nav ul li:nth-of-type(6):hover,
+.practice nav ul li:nth-of-type(6):hover,
+.sports nav ul li:nth-of-type(6):hover,
+.practical nav ul li:nth-of-type(6):hover,
+.perform nav ul li:nth-of-type(6):hover,
+.soiree nav ul li:nth-of-type(6):hover{
+	background-image: url(../images/sdwh.gif);
+}
+.soiree nav ul li.hover{
+	background-image: url(../images/sdwh.gif);
+}
+
+.military nav ul li a,.practice nav ul li a,.sports nav ul li a,.practical nav ul li a,.perform nav ul li a,.soiree nav ul li a{
+	display:block;
+	padding-left:65px;
+	line-height:74px;
+	font-size:22px;
+	color:#222222;
+	border-bottom:4px solid #ffffff;
+}
+.military nav ul li:hover a,.practice nav ul li:hover a,.sports nav ul li:hover a,.practical nav ul li:hover a,.perform nav ul li:hover a,.soiree nav ul li:hover a{
+	border-bottom:4px solid #fa9634;
+}
+.military nav ul li.hover a,.practice nav ul li.hover a,.sports nav ul li.hover a,.practical nav ul li.hover a,.perform nav ul li.hover a,.soiree nav ul li.hover a{
+	border-bottom:4px solid #fa9634;
+}
+.aside{
+	width:67.86407766990291%;
+    padding-top:5px;
+    padding-left:48px;
+    margin-bottom:40px;
+	float:left;
+}
+.aside p{
+	text-indent:32px;
+	font-size:16px;
+    line-height:30px;
+    color:#000000;
+}
+.aside p:first-of-type{
+	margin-top:33px;
+}
+.aside p:last-of-type{
+	margin-bottom:40px;
+}
+.flexslider{
+	display:none;
+}
+.c{
+	display:block;
+}
+@media screen and (max-width:1040px ) {
+	.c{
+		display:none;
+	}
+	.aside p:first-of-type{
+		margin-top:0;
+	}
+}
+@media screen and (max-width:1000px ) and (min-width:768px){
+	.military nav,.practice nav,.sports nav,.practical nav,.perform nav,.soiree nav{
+		width:29%;
+	}
+	.military nav ul li,.practice nav ul li,.sports nav ul li,.practical nav ul li,.perform nav ul li,.soiree nav ul li{
+		background-position: 10px center;
+	}
+	.military nav ul li a,.practice nav ul li a,.sports nav ul li a,.practical nav ul li a,.perform nav ul li a,.soiree nav ul li a{
+		white-space:nowrap;
+		overflow:hidden;
+		text-overflow:ellipsis;
+		padding-left: 60px;
+    	font-size:20px;
+    	font-family:"微软雅黑";
+	}
+	.aside{
+		width:71%;
+		padding-left:38px;
+		box-sizing:border-box; 
+	}
+}
+@media screen and (max-width:767px ) {
+	
+	.military nav,.practice nav,.sports nav,.practical nav,.perform nav,.soiree nav{
+   		width:100%;
+   		clear:both;
+	}
+	.military nav ul li,.practice nav ul li,.sports nav ul li,.practical nav ul li,.perform nav ul li,.soiree nav ul li{
+		width:33.33333333333333333333333333333333%;
+    	background-position:center 10px;
+    	text-align:center;
+    	float:left;
+	}	
+	.military nav ul li a,.practice nav ul li a,.sports nav ul li a,.practical nav ul li a,.perform nav ul li a,.soiree nav ul li a{
+    	padding:50px 0 0 0;
+   		font-size:20px;
+    	line-height:50px;
+	}
+	.aside{
+		width:100%;
+	    padding-top:5px;
+	    padding-left:0;
+		clear:both;
+	}
+	.aside p:last-of-type{
+		margin-bottom:0;
+	}
+}
+@media screen and (max-width:480px ){
+	.military nav ul li a,.practice nav ul li a,.sports nav ul li a,.practical nav ul li a,.perform nav ul li a,.soiree nav ul li a{
+		font-size:18px;
+		font-family:"宋体";
+		white-space:nowrap;
+		overflow:hidden;
+		text-overflow:ellipsis;
+	}
+	.aside p{
+		font-family:"宋体";
+		font-size:16px;
+	}
+}
